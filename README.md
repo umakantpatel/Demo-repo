@@ -1,5 +1,5 @@
 # Demo-repo
 first repository for git
 
-make changes demonstration 
+deleted pervious line 
 
