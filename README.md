@@ -1,5 +1,7 @@
 # Demo-repo
 first repository for git
 
-deleted pervious line 
+make changes demonstration 
 
+samsung
+sony
